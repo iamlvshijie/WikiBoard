@@ -1,0 +1,20 @@
+Rev.A4
+	<>add reset key;
+	<>PF0 PF1 for stm32f030 devices;
+	<>32.768KHz quartz;
+Rev.A3
+	<*>sch:add installation guide;
+	<*>pcb:correct gnd,d3v3 testpoint descriptions;
+Rev.A2
+	<*>add stm32f030 capacity:pin 35 pin36 pin1;
+	<*>add boot0 settings;
+Rev.A1
+	<>stm logo
+	<>polygon
+	<*>tear drop
+	<x>notes for pins;
+	<*>test points
+	<x>final anotation
+	<*>web site, qq group    397822955
+	<>reset button
+	<>input capture

@@ -1,0 +1,5 @@
+Rev.A1
+<> 0.28 inch 7 segment led FJ2481AH(From JLC SHOP)
+<> diode resistor
+<> current-limit resistor for segment led 
+
