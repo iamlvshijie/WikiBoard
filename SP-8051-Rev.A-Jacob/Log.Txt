@@ -1,0 +1,2 @@
+8051 POWER supply 5v 3.3v ??
+programming code start;?
