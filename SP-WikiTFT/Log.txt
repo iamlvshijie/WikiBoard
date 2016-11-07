@@ -1,0 +1,10 @@
+Rev.A2
+
+	From A1
+	sch
+		warning: TFT-2.8-i9341 reset -> reset#;
+	pcb
+		warning: FPC-50PIN footprint;
+		error: left cable: TFT-2.8 PIN50 downside -> pin50 upside; top-contact fpc;
+			   right cable: keep PIN1 upside;down-contact fpc;
+Rev.A1
