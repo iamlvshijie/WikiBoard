@@ -1,0 +1,24 @@
+FT2232H
+Rev.A3(Work)
+<*>Correct reset eror;
+<*>adjust: change REF Pin 12K resistor to 1%;
+<*>adjust: NRST resistor to 10K;
+<>switch footrint change to ?
+<*>error(unroute): U7-4 to c22-1; connected;
+<*>error(unroute):cn1-0 to r1-2;connected;
+<*>modified; JTAG connector
+Rev.A2
+<*>ADD FLASS JTAG REV.B FUNCTION
+<*>add io descrition;
+<*>correct jtag connector descrition;
+sch
+<warning>crystal 6MHz to 12MHz;
+<error>reset key and resistor osition change;
+pcb
+<*>usb connector more closer to the edge;
+<*>C22 C25 position
+<*>reset key more closer to the edge
+<*>test point hole size smaller
+<*>xtal footprint and its capacity
+Rev.A1
+  First Release.
