@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Wikier\Wikier.PrjPCB
+[Project2]
+ProjectPath=SP-ESP32\ESP32.PrjPCB
+[Project3]
+ProjectPath=SP-STC8051\8051.PrjPcb
