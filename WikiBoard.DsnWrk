@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
-[Project0]
+[Project1]
 ProjectPath=SP-FT2232H\FT2232H.PrjPCB
 [Project2]
 ProjectPath=SP-STM32P48\STM32P48.PrjPcb
@@ -9,9 +9,9 @@ ProjectPath=SP-STC8051\8051.PrjPcb
 [Project4]
 ProjectPath=SP-WikiHub\WikiHub.PrjPCB
 [Project5]
-ProjectPath=SP-WikiTFT\WikiTFT.PrjPCB
-[Project6]
 ProjectPath=SP-WikiKey\WikiKey.PrjPcb
+[Project6]
+ProjectPath=SP-WikiTFT\WikiTFT.PrjPCB
 [Project7]
 ProjectPath=SP-ESP32\ESP32.PrjPCB
 [Project8]
