@@ -1,0 +1,4 @@
+Notice:
+1,Tx Rx;
+2,Periph Pwr;
+3,
