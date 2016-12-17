@@ -16,3 +16,7 @@ ProjectPath=SP-WikiTFT\WikiTFT.PrjPCB
 ProjectPath=SP-ESP32\ESP32.PrjPCB
 [Project8]
 ProjectPath=SP-STM32P100\STM32P100.PrjPCB
+[Project9]
+ProjectPath=SP-STM32P64\STM32P64.PrjPCB
+[Project10]
+ProjectPath=SP-WikiAudio\WikiAudio.PrjPCB
