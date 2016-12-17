@@ -20,3 +20,5 @@ ProjectPath=SP-STM32P100\STM32P100.PrjPCB
 ProjectPath=SP-STM32P64\STM32P64.PrjPCB
 [Project10]
 ProjectPath=SP-WikiAudio\WikiAudio.PrjPCB
+[Project11]
+ProjectPath=SP-WikiPower\WikiPower.PrjPCB
