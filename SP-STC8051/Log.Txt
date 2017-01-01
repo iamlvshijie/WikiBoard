@@ -1,2 +1,7 @@
-8051 POWER supply 5v 3.3v ??
-programming code start;?
+Rev.A1
+	add 8051 POWER supply 5v/3.3v switch;
+	programming circuit on board;
+	10K pull-up resistor for P0;
+ 	LDO Power on board;
+	
+
